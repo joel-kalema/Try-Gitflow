@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 A good programmer is someone who always looks both ways before crosing a one-way Street.
+=======
+A good programmer is someone who always looks both ways before crosing a one-way street.Doug Linder
+>>>>>>> 908ceadde5447dbbc59eca9730d99ee6715cabe2
